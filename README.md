@@ -1,4 +1,5 @@
-# LOKI
+# EZIO
+Privacy without Compliance is banned, Compliance without privacy is pointless.
 
 <p>
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
