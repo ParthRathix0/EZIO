@@ -1,10 +1,6 @@
 # EZIO
 Privacy without Compliance is banned, Compliance without privacy is pointless.
 
-<p>
-  <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-  <img alt="Status" src="https://img.shields.io/badge/status-Research%2FPOC-purple">
-</p>
 
 Private fund transfers powered by **zero-knowledge proofs**. Enables confidential payments where the transferred amount and sender–receiver linkage remain hidden, while correctness and one‑time spend are enforced on-chain.
 
